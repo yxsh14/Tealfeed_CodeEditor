@@ -31,7 +31,7 @@ const CodeEditor = () => {
         />
       </div>
       <a
-        href="https://github.com/your-github-repository"
+        href="https://github.com/yxsh14/Tealfeed_CodeEditor"
         target="_blank"
         className="github-button"
       >

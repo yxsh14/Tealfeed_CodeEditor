@@ -37,6 +37,9 @@ const CodeEditor = () => {
       >
         GitHub
       </a>
+      <footer className="footer">
+        Created by: Yash Sahu
+      </footer>
     </div>
   );
 };

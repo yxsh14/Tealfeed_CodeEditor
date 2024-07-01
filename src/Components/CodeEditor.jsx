@@ -4,7 +4,7 @@ import "prismjs/themes/prism.css";
 import './CodeEditor.css';
 
 const CodeEditor = () => {
-  const [code, setCode] = useState('');
+  const [code, setCode] = useState('You can write the code here.');
 
   const handleChange = (event) => {
     setCode(event.target.value);
